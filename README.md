@@ -1,10 +1,9 @@
 # Netflix-Data-Analysis
-   **Netflix** is an **American** subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.Here are some key insights from my Netflix Dashboard Analysis:
-
-1. Content Overview
+**Netflix** is an **American** subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.Here are some key insights from my Netflix Dashboard Analysis:
+ 1. Content Overview
 Total Releases: Netflix has a vast collection, with **6,235** total releases.
 TV Shows vs. Movies: The distribution is skewed towards TV Shows **(67.45%)** compared to Movies **(32.55%)**.
-2. Genre Distribution
+ 2. Genre Distribution
 The platform offers a wide variety of genres.
 **Documentaries** and __Stand-Up Comedy__ dominate, with **299** and **273** releases respectively.
 Other popular genres include International Dramas and Independent Dramas.
