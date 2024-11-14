@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis
-**Netflix** is an **American** subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.Here are some key insights from my Netflix Dashboard Analysis:
+   **Netflix** is an **American** subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.Here are some key insights from my Netflix Dashboard Analysis:
 
 1. Content Overview
 Total Releases: Netflix has a vast collection, with **6,235** total releases.
